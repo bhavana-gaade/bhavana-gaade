@@ -140,9 +140,9 @@ An automated **ELT pipeline** that moves raw data from cloud storage into a ware
 
 ## 🌍 Connect With Me
 
-- 🔗 LinkedIn: [Add your LinkedIn URL]
+- 🔗 LinkedIn: https://www.linkedin.com/in/bhavana-gd777/
 - 💻 GitHub: https://github.com/bhavana-gaade
-- 📧 Email: [Add your email]
+- 📧 Email: bhavanagaade@gmail.com
 
 ---
 
