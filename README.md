@@ -80,21 +80,6 @@ I work at the intersection of **SQL, Python, and BI tools** to build dashboards,
 - 🔍 Root Cause Analysis
 - ⚙️ Report Automation & Data Quality (Great Expectations)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavana-gaade&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavana-gaade&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavana-gaade&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 What I Do
 
